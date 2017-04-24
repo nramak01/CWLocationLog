@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "805168846686",
+    "firebase_url": "https://locationlog-328b8.firebaseio.com",
+    "project_id": "locationlog-328b8",
+    "storage_bucket": "locationlog-328b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805168846686:android:30e1da61a0bd6bf8",
+        "android_client_info": {
+          "package_name": "uk.ac.bbk.android.locationlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805168846686-tbq5pu3uee6q37n8ib4ep7952d8ngoam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHBt6kuDefxl-Gv8gY-uWT_0oj9NIhDps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
